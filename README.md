@@ -45,4 +45,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by FastWork 💪 [Curta nossas paginas!](https://www.instagram.com/fastworksolutions)
+Feito com ♥ by FastWork 
+💪 [Curta nossas paginas!](https://www.instagram.com/fastworksolutions)
