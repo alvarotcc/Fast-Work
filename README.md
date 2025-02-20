@@ -18,7 +18,7 @@ Primeiro site criado dentro da plataforma de estudos academico. <br/>
 <br>
 
 <p align="center">
-  <img alt="Projeto Pagehome" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
