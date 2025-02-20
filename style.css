@@ -34,7 +34,6 @@ body {
 body * {
     font-family: 'inter', sans-serif;
     color: var(--text-color);
-
 }
 
 #container {
@@ -82,7 +81,7 @@ width: 112px;
  z-index: 1;
  transform: translateY(-50%);
 
- animation:slide-back 0.2s;
+ animation: slide-back 0.2s;
 
 }
 
@@ -128,6 +127,7 @@ ul li a{
  border-radius: 8px;
 
  backdrop-filter: blur(4px);
+ -webkit-backdrop-filter: blur(4px);
 
  text-decoration: none;
  font-weight: 500;
@@ -200,4 +200,4 @@ to {
     to {
         left: 0;
     }
-    }
+}

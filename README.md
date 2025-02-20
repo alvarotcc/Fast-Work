@@ -1,7 +1,7 @@
 <h1 align="center"> Page Home </h1>
 
 <p align="center">
-Primeiro site criado dentro da plataforma de estudos academico. <br/>
+Primeiro site criado por mim dentro da plataforma de estudos academico. <br/>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar esse site dentro [DESSE LINK](https://alvarotcc.github.io/Fast-Work/Fast-Work). E tambem ficar por dentro de novidades no nosso [perfil do instagram](https://www.instagram.com/fastworksolutions).
+Você pode visualizar esse site dentro [DESSE LINK](https://alvarotcc.github.io/Fast-Work). E tambem ficar por dentro de novidades no nosso [perfil do instagram](https://www.instagram.com/fastworksolutions).
 
 ## ✔ Licença
 
@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by FastWork 
-💪 [Curta nossas paginas!](https://www.instagram.com/fastworksolutions)
+👍 [Curta nossas paginas!](https://www.instagram.com/fastworksolutions)
