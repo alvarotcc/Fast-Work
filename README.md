@@ -18,7 +18,7 @@ Primeiro site criado dentro da plataforma de estudos academico. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto pagehome" src=".github/preview.jpg" width="100%">
+  <img alt="projeto pagehome" src=".github/prev.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
